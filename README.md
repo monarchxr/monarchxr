@@ -34,7 +34,7 @@ Leetcode : <br>
 <br>
 
 Atcoder : <br>
-[![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=monarchxr)](https://atcoder.jp/users/monarchxr)
+[![Atcoder Stats](https://atcoder-readme-stats.vercel.app/stats/monarchxr?show_history=5&width=450)](https://github.com/monarchxr/atcoder-readme-stats)
 <!--
 **monarchxr/monarchxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
