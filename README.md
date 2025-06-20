@@ -1,6 +1,7 @@
 <div align="center">
   <h2 align="center">Hello, I am Raunak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-  <p>Currently just trying to float my boat</p>
+  <p>Just trying to float my boat</p>
+  <p>Currently Junior Year</p>
 </div><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monarchxr" alt="monarchxr" /> </p>
@@ -15,6 +16,7 @@
   <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
   <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
   <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
+  <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
 </div><br>
 
 <!--### 🧰 Frameworks and libraries
