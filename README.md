@@ -47,10 +47,11 @@
 
 👾𝗠𝘆 𝗰𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗽𝗿𝗼𝗳𝗶𝗹𝗲𝘀
 <div>
-  
+<!--  
 𝗖𝗼𝗱𝗲𝗳𝗼𝗿𝗰𝗲𝘀: <br>
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=monarchxr)
 <br>
+-->
 
 𝗟𝗲𝗲𝘁𝗰𝗼𝗱𝗲: <br>
 ![](https://leetcard.jacoblin.cool/monarchxr?ext=activity)
