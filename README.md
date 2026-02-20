@@ -38,9 +38,8 @@
 </div>
 
 <hr />
-<div align="center">
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=monarchxr&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Raunak's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarchxr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
-</div>
+
+[![Raunak's GitHub stats](https://gh-stats-card.vercel.app/api/monarchxr)](https://github.com/monarchxr)
 
 
 <hr />
